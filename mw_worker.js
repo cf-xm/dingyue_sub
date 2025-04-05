@@ -10,8 +10,8 @@ let addressescsv = [];
 let DLS = 7;
 let remarkIndex = 1;//CSV备注所在列偏移量
 
-let subConverter = 'SUBAPI.cmliussss.net';
-let subConfig = atob('aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NtbGl1L0FDTDRTU1IvbWFpbi9DbGFzaC9jb25maWcvQUNMNFNTUl9PbmxpbmVfRnVsbF9NdWx0aU1vZGUuaW5p');
+let subConverter = 'zh.cfwd.ddns-ip.net';
+let subConfig = atob('https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_Full_MultiMode.ini');
 let noTLS = 'false';
 let link;
 let 隧道版本作者 = atob('ZWQ=');
